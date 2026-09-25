@@ -1,7 +1,10 @@
 Apuntes GIT
 ============
-##Consola
+## Consola
 Recomiendo usar `zsh`
 
-##Libro
+## Libro
 Git notes professionals
+
+## Branch
+git branch <nombre>
